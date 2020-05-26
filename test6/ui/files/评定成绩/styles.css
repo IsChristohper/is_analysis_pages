@@ -3466,7 +3466,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -3481,7 +3481,7 @@
   width:211px;
   height:18px;
   display:flex;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -3514,12 +3514,12 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
   text-decoration:underline ;
-  color:#009900;
+  color:#00BFBF;
 }
 #u362 {
   border-width:0px;
@@ -3529,12 +3529,12 @@
   width:239px;
   height:18px;
   display:flex;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
   text-decoration:underline ;
-  color:#009900;
+  color:#00BFBF;
 }
 #u362 .text {
   position:absolute;
@@ -3616,6 +3616,7 @@
   width:48px;
   height:2px;
   display:flex;
+  color:#00BFBF;
 }
 #u363 .text {
   position:absolute;
@@ -3644,7 +3645,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -3659,7 +3660,7 @@
   width:240px;
   height:18px;
   display:flex;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -3778,7 +3779,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -3793,7 +3794,7 @@
   width:240px;
   height:18px;
   display:flex;
-  font-family:'Arial Negreta', 'Arial', sans-serif;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
